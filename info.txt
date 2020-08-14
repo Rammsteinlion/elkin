@@ -1,0 +1,2 @@
+Me disculpo la demora tuve ciertos inconveniente.
+ya lo arregle y lo corregi me muestra los datos y los guarda en la base de datos
